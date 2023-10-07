@@ -24,7 +24,7 @@
     {"id": "11"}
 ],
   "tags": [
-    {"userid": "5071878111", "tag": "RAYFEM", "color": "pink"},
+    {"userid": "5071878111", "tag": "RAYUWU💜", "color": "pink"},
     {"userid": "1", "tag": "nn", "color": "red"},
     {"userid": "1", "tag": "nn", "color": "purple"},
     {"userid": "1", "tag": "nn", "color": "purple"},
